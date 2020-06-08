@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `Ridwan Tukale`,
-    description: `Gatsby Markdown Personal Website Starter, using Styled Components, Tailwindcss and Framer Motion.`,
-    author: `Saimir Kapaj`
+    description: `Rdiwan Tukale personal site and blog.`,
+    author: `Ridwan Tukale`
   },
   plugins: [
     `gatsby-plugin-typescript`,
@@ -46,7 +46,7 @@ module.exports = {
         background_color: `#ed64a6`,
         theme_color: `#ed64a6`,
         display: `minimal-ui`,
-        icon: `src/assets/images/gatsby-icon.png`
+        icon: `src/assets/images/gat.png`
       }
     },
     `gatsby-plugin-offline`,
