@@ -44,7 +44,7 @@ module.exports = {
         short_name: `starter`,
         start_url: `/`,
         background_color: `#ed64a6`,
-        theme_color: `#ed64a6`,
+        theme_color: `#4f14ff`,
         display: `minimal-ui`,
         icon: `src/assets/images/gat.png`
       }
