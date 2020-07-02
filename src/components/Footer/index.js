@@ -8,11 +8,11 @@ const Footer = () => (
   <Styled.Footer>
     <Container>
       <Styled.Links>
-        <Styled.Link href="/" rel="noreferrer noopener" target="_blank">
+        <Styled.Link href="https://twitter.com/RidwanTukale" rel="noreferrer noopener" target="_blank">
           Twitter
         </Styled.Link>
         <Styled.Link
-          href="https://twitter.com/RidwanTukale"
+          href="https://www.linkedin.com/in/ridwantukale/"
           rel="noreferrer noopener"
           target="_blank"
         >
