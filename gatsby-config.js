@@ -40,7 +40,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-personal-website-starter`,
+        name: `Ridwan Tukale website, portfolio, resume, blog`,
         short_name: `starter`,
         start_url: `/`,
         background_color: `#ed64a6`,
