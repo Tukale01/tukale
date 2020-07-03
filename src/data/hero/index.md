@@ -1,10 +1,8 @@
 ---
 category: 'hero section'
 title: 'Communications Specialist & Web Developer'
-subtitle: 'I am Ridwan Hamud'
-content: 'Greetings, I’m Ridwan. a Communication Specialist, Web Developer, and a Digital Marketing/Media Consultant living in Hargeisa, Somaliland.\
-
-Interested in Technology, Entrepreneurship and Innovations. 
+subtitle: 'I am Ridwan Tukale'
+content: 'Greetings, I’m Tukale. a Communication Specialist, Web Developer, and a Digital Marketing/Media Consultant living in Hargeisa, Somaliland.Interested in Technology, Entrepreneurship and Innovations. 
 
 I work at HarHub as a Communication and Community Manager, a Digital Marketing Consultant at Waayeel Consultant and I run a freelance business of Web Development using modern programming languages and approaches to deliver satisfying results. 
 
