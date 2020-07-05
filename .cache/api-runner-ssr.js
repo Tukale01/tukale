@@ -3,7 +3,7 @@ var plugins = [{
       options: {"plugins":[]},
     },{
       plugin: require('/Users/ridwantukale/Documents/projects/lin/tukale/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"gatsby-personal-website-starter","short_name":"starter","start_url":"/","background_color":"#ed64a6","theme_color":"#4f14ff","display":"minimal-ui","icon":"src/assets/images/gat.png"},
+      options: {"plugins":[],"name":"Ridwan Tukale website, portfolio, resume, blog","short_name":"starter","start_url":"/","background_color":"#ed64a6","theme_color":"#4f14ff","display":"minimal-ui","icon":"src/assets/images/gat.png"},
     },{
       plugin: require('/Users/ridwantukale/Documents/projects/lin/tukale/node_modules/gatsby-plugin-offline/gatsby-ssr'),
       options: {"plugins":[]},
