@@ -5,6 +5,14 @@ module.exports = {
     author: `Ridwan Tukale`
   },
   plugins: [
+
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: " UA-174213892-1 ",
+      },
+    },
+      
     `gatsby-plugin-typescript`,
     `gatsby-plugin-react-helmet`,
     {

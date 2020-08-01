@@ -1,4 +1,7 @@
 var plugins = [{
+      plugin: require('/Users/ridwantukale/Documents/projects/lin/tukale/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
+      options: {"plugins":[],"trackingId":" UA-174213892-1 "},
+    },{
       plugin: require('/Users/ridwantukale/Documents/projects/lin/tukale/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
