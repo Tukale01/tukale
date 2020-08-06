@@ -1,6 +1,6 @@
 ---
 category: 'blog'
-cover: './work.jpg'
+cover: './pick.jpg'
 title: 'The New Way to Find a Job - Pick Yourself.'
 description: 'The world we live in today is no longer guarded by gatekeepers. This is the new way to finding a job'
 date: '2020-08-03'
@@ -15,6 +15,8 @@ What have they done that was unusual? What they have done was, instead of waitin
 
 The world we live in today is no longer guarded by gatekeepers. In the past, in order for you to be on TV, you needed to get the attention of some of the TV show hosts or reporters (The Gatekeepers) and they had pretty much controlled what people viewed. Since the television era is over, social media is now allowing everybody to reach as many people as they want, without having anyone else filter or control their content.
 These examples are everywhere in the new creative work environment. For instance, in the past, someone who was looking for a computer programming job needed a computer science degree and an experience working for a company. 
+
+![Aliquet vel mollis nec](./pickbig.jpg)
 
 Today, all you need is creating your own software and uploading your own code to the web, and by that, you are creating a presence and adding a value as well. 
 Also, if you are a gifted writer and would like to share your gift with the world, you are no longer conditioned by being picked by journals or newspapers. You can use platforms like Medium to publish your thoughts or perspective and get the attention of some of the prominent publications and magazines out there. 
