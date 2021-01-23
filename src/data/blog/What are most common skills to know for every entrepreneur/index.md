@@ -1,7 +1,7 @@
 ---
 category: 'blog'
 cover: './hustle.jpg'
-title: 'What are most common skills to know for every entrepreneur?'
+title: 'What are most common skills to know for every entrepreneur'
 description: 'Working for yourself requires a unique set of skills. It also takes a certain amount of bravery. You may have to face many ups and downs before your ship comes in.'
 date: '2019-02-22'
 tags: ['entrepreneurship', 'business']
