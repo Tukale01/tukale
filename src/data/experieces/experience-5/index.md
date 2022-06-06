@@ -1,11 +1,13 @@
 ---
 category: 'experiences'
-company: 'HarHub'
-position: 'Communication & Community Manager'
+company: 'FCG Sweden - Urur Kaab Project'
+position: 'Communication Specialist'
 startDate: 'Dec 2019'
-endDate: 'Present'
+endDate: 'Feb 2021'
 ---
 
-I inform, educate, entertain and engage HarHub different communities using the appropriate channel for different audiences like program benificaries, partners and clients. 
+Layout digital communication and amrketing strategy that targeted the right audiences through the right channels.
 
-I work on building communities in innovation, tech and entreprenurship that collaborates as teams and co-design or co-create solutions to address issues.
+Oversee and edit communication materials, including activity updates, blog post, success stories from the CSO sector, newsletters, press releases and infographics.
+
+Identify key partners and help CSO with partnership building through email using MailerLite and MailChimp.

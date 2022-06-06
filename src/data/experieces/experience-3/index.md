@@ -3,7 +3,7 @@ category: 'experiences'
 company: 'Shaqodoon Organization'
 position: 'Communication Specialist '
 startDate: 'Nov 2019'
-endDate: 'May 2020'
+endDate: 'November 2020'
 ---
 
 Delivered and implemented communication plans to inform partners, stakeholders and community.
